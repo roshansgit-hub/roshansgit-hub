@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/roshan.jpg" width="180" style="border-radius:50%;" />
+<img src="roshan-banner-v2%20(1).svg" />
 
 # Hi 👋 I'm Roshan Jha
 
