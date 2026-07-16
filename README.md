@@ -149,9 +149,9 @@ EC2 • S3 • IAM • VPC • Route53 • CloudFormation • CloudWatch • SNS
 
 # 📂 Featured Projects
 
-⭐ AWS Secure S3 Static Website
+⭐Enterprise three tier aws infrastructure
 
-⭐ AWS KMS Encryption Project
+⭐ Ai cloud log analyzer
 
 ⭐ Cloud Security Monitoring using CloudTrail + CloudWatch + SNS
 
